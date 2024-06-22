@@ -1,8 +1,8 @@
-# googlenet을 이용하여 가~하 분류하기
+# googlenet을 이용하여 가~하 한글 분류하기
 
-googlenet 구조를 변경하여 파라미터의 개수를 줄이고, 
+한글 가~하 까지 분류하는 모델 만들기
 
-분류 정확도를 올리기. 
+googlenet 구조를 변경하여 파라미터의 개수를 줄이고, 분류 정확도를 올리기. 
 
 ### 모델 학습 시 정확도
 ![image](https://github.com/qkrwlfjddl/googlenet/assets/139184027/972ba6b2-0e92-4fd6-8452-674ea83d64e6)
