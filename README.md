@@ -6,6 +6,7 @@ googlenet 구조를 변경하여 파라미터의 개수를 줄이고, 분류 정
 
 구조는 32*32 이미지를 잘 인식할 수 있도록 채널 수 변경 및 inception 채널 구조 변경과 일부 drop
 
+
 ### 모델 학습 시 정확도
 ![image](https://github.com/qkrwlfjddl/googlenet/assets/139184027/972ba6b2-0e92-4fd6-8452-674ea83d64e6)
 
